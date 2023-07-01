@@ -1,3 +1,4 @@
 # odin-recipes
 Part of The Odin Project.
-Review on Basic HTML.
+Reviewed Basic HTML.
+Added CSS.
