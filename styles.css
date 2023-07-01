@@ -1,0 +1,15 @@
+* {
+    text-align: center;
+    list-style-position: inside;
+    background-color: lightblue;
+    text-decoration: none;
+}
+
+h1 {
+    background-color: rgb(185, 70, 167);
+    color: rgb(255, 195, 67);
+}
+
+h2 {
+    color: rgb(143, 50, 164);
+}
