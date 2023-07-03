@@ -8,6 +8,19 @@
 h1 {
     background-color: rgb(185, 70, 167);
     color: rgb(255, 195, 67);
+    width: 300px;
+    margin: 20px auto;
+}
+
+ul.list {
+    font-size: 20px;
+    list-style-type: none;
+}
+
+.list li {
+    width: 300px;
+    margin: 10px auto;
+    border: 2px solid red;
 }
 
 h2 {
